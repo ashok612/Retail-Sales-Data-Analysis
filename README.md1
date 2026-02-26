@@ -1,0 +1,29 @@
+# Sales Data Analysis and Reporting for a Retail Chain
+
+## Project Overview
+This project analyzes retail sales data using Power BI to identify sales trends, product performance, and revenue insights. The dashboard helps businesses understand sales distribution, customer purchasing patterns, and performance of different product categories.
+
+## Tools Used
+- Power BI
+- Data Analysis
+- Data Visualization
+- CSV Dataset
+
+## Dashboard Insights
+- Total sales performance
+- Sales by product category
+- Monthly sales trends
+- Regional sales analysis
+- Top performing products
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
+## Project Files
+- Sales_Data_Analysis and Reporting – visualization
+- retail_sales_dataset.csv – Dataset used for analysis
+- README.md – Project documentation
+
+## Author
+Ashok  
+Data Analyst | Power BI | SQL | Python
